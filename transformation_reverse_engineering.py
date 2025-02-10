@@ -1,4 +1,4 @@
-enc_flag = "灩捯䍔䙻ㄶ形楴獟楮獴㌴摟潦弸彥ㄴㅡて㝽"
+enc_flag = "灩捯䍔䙻ㄶ形楴獟楮獴㌴摟潦弸彥ㄴㅡて㝽" #Replace with the enc file content
 
 decoded_flag = []
 for c in enc_flag:
