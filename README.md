@@ -11,7 +11,7 @@ We are given an encoded flag stored in an `enc` file. The encoding process combi
 ## Decoding Script (transformation_reverse_engineering.py)
 ```python
 # Paste the encoded string from the enc file here
-enc_flag = "灩捯䍔䙻ㄶ形楴獟楮獴㌴摟潦弸彥ㄴㅡて㝽"
+enc_flag = "灩捯䍔䙻ㄶ形楴獟楮獴㌴摟潦弸彥ㄴㅡて㝽" # Replace with the content of your enc file
 
 decoded_flag = []
 for c in enc_flag:
